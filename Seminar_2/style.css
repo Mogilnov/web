@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(0, 0, 255);
+    text-align: center;
+}
+h1{
+    color: brown;
+}
+h2{
+    color: green;
+}
+a{
+    color: chocolate;
+}
+img{
+    width: 400px;
+    margin-left: 50px;
+}
+.big_text{
+    font-size: 1.5rem;
+}
+ul{
+    list-style-type: square;
+}
+
+.parent{
+    width: 1000px;
+}
